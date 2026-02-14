@@ -1,0 +1,26 @@
+13:11:42.585 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:11:42.591 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:11:42.599 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:11:42.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:11:42.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:11:42.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:11:42.626 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:11:42.640 [main] INFO  testCases.TC003_LoginDDt - ***Starting TC003_LoginDDT***
+13:11:47.697 [main] INFO  testCases.TC003_LoginDDt - ***Finished TC003_LoginDDT***
+13:11:47.721 [main] INFO  testCases.TC003_LoginDDt - ***Starting TC003_LoginDDT***
+13:11:52.598 [main] INFO  testCases.TC003_LoginDDt - ***Finished TC003_LoginDDT***
+13:11:52.601 [main] INFO  testCases.TC003_LoginDDt - ***Starting TC003_LoginDDT***
+13:12:03.921 [main] INFO  testCases.TC003_LoginDDt - ***Finished TC003_LoginDDT***
+13:12:03.921 [main] INFO  testCases.TC003_LoginDDt - ***Starting TC003_LoginDDT***
+13:12:08.749 [main] INFO  testCases.TC003_LoginDDt - ***Finished TC003_LoginDDT***
+13:12:08.751 [main] INFO  testCases.TC003_LoginDDt - ***Starting TC003_LoginDDT***
+13:13:26.909 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest***
+13:13:28.250 [main] INFO  testCases.TC002_LoginTest - ***  Finished TC002_LoginTest***
+13:13:47.335 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest***
+13:13:48.578 [main] INFO  testCases.TC002_LoginTest - ***  Finished TC002_LoginTest***
+13:14:46.920 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest***
+13:14:48.269 [main] INFO  testCases.TC002_LoginTest - ***  Finished TC002_LoginTest***
+13:30:19.127 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest***
+13:30:20.903 [main] INFO  testCases.TC002_LoginTest - ***  Finished TC002_LoginTest***
+13:38:28.010 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest***
+13:38:29.512 [main] INFO  testCases.TC002_LoginTest - ***  Finished TC002_LoginTest***
